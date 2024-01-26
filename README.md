@@ -39,7 +39,7 @@ Here's a peek inside my world of web development:
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![WordPress](https://img.shields.io/badge/WordPress-35495E?style=for-the-badge&logo=WordPress&logoColor=4FC08D)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
