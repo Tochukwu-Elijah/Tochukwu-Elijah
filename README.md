@@ -4,6 +4,9 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Front+-end+Developer)
 
+![](https://img.shields.io/github/followers/tochukwu-elijah?label=follow&logo=github&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/tochukwu-elijah?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![](https://komarev.com/ghpvc/?username=tochukwu-elijah&style=flat-square&color=ff69b4)
 
 
 <!-- 
