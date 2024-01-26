@@ -1,11 +1,16 @@
 <h2 align="center">Hi there, I'm Tochukwu Elijah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Front+-end+Developer)
+---
 
 Welcome to my GitHub profile! I'm a dedicated front-end React engineer who is passionate about creating amazing user interfaces and engaging web experiences.
+---
 Here's a peek inside my world of web development:
+---
 👀 I specialise in designing dynamic and responsive user interfaces using React, bringing ideas into being through clean and efficient code.
+---
 🌱 Currently, I'm involved in the dynamic React environment, keeping up with the newest trends and innovations to create contemporary and scalable solutions.
+---
 💞️ I'm excited about working on React-based projects, whether it's contributing to open-source or developing innovative web apps.
 ---
 <h3 align="left">Connect with me</h3>
