@@ -4,17 +4,19 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&lines=I'm+a+Front+-end+Developer)
 
----
+<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
 
-Welcome to my GitHub profile! I'm a dedicated front-end React engineer who is passionate about creating amazing user interfaces and engaging web experiences.
----
-Here's a peek inside my world of web development:
----
-👀 I specialise in designing dynamic and responsive user interfaces using React, bringing ideas into being through clean and efficient code.
----
-🌱 Currently, I'm involved in the dynamic React environment, keeping up with the newest trends and innovations to create contemporary and scalable solutions.
----
-💞️ I'm excited about working on React-based projects, whether it's contributing to open-source or developing innovative web apps.
+<!-- 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />  -->
+
+<img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; I study computer science and systems engineering at the Rafael Landívar University.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
+<hr>
+
 ---
 <h3 align="left">Connect with me</h3>
 <p align="left">
