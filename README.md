@@ -73,8 +73,8 @@
   ---
    ## 🌐 **BROWSERS**
 
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-317cee?style=for-the-badge&logo=GoogleChrome&logoColor=white)][repo]
-[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white "Brave")][repo]
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-317cee?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white "Brave")
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) 
  ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white) 
