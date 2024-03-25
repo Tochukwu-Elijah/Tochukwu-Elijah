@@ -133,8 +133,6 @@ Open Source Software
 
 Digital Marketing
 
-Project Management
-
 Coffee
 
 Coding
