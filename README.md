@@ -28,7 +28,7 @@
 </p>
 ---
 
-- ⚡ Fun fact **I’m currently learning everything 🤣**_
+- ⚡ Fun fact **I’m currently learning everything 🤣**
 
 <h3 align="left">Languages, clouds, Tools & IDEs</h3>
 
