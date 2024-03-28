@@ -17,6 +17,7 @@
 <hr>
 
 ---
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://codepen.io/Tinoet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Elijah" height="30" width="40" /></a>
@@ -27,7 +28,7 @@
 </p>
 ---
 
-- ⚡ Fun fact **I’m currently learning everything 🤣**
+- ⚡ Fun fact **I’m currently learning everything 🤣**_
 
 <h3 align="left">Languages, clouds, Tools & IDEs</h3>
 
